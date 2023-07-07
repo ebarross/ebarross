@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the leading sports portal in Brazil 
+- 🌱 I’m currently learning GraphQL and Go
+- 👯 I’m looking to collaborate on Open Source projects
+- 💬 Ask me about: front-end development, UI/UX, accessibility
+- 📫 You can reach me at: [LinkedIn](https://linkedin.com/in/ebarross)
+
 <!--
 **ebarross/ebarross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
